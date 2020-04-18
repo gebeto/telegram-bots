@@ -1,0 +1,13 @@
+{
+	"name": "telegram-echo",
+	"description": "A telegram bot made for Now v2",
+	"scripts": {
+		"dev": "echo 'asdasd'",
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"axios": "^0.18.0",
+		"now-env": "^3.1.0",
+		"telegraf": "^3.37.0"
+	}
+}
